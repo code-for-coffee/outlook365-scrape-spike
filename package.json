@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/code-for-coffee/outlook365-scrape-spike/issues"
   },
-  "homepage": "https://github.com/code-for-coffee/outlook365-scrape-spike#readme"
+  "homepage": "https://github.com/code-for-coffee/outlook365-scrape-spike#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "simple-oauth2": "^1.3.0"
+  }
 }
