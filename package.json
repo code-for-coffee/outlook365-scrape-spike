@@ -1,0 +1,19 @@
+{
+  "name": "outlook365-scrape-spike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-for-coffee/outlook365-scrape-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-for-coffee/outlook365-scrape-spike/issues"
+  },
+  "homepage": "https://github.com/code-for-coffee/outlook365-scrape-spike#readme"
+}
